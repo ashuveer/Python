@@ -1,0 +1,51 @@
+## Domain Option: 
+             Cyber_Security, IOT, Cloud, Data_Science, Machine_Learning, Network, DevOps, etc...
+## Programming: 
+              Libraries: more then 60,000 
+              As a tool
+              As a bridge 
+              Python 2 (SLow)
+              Python 3 (Fater) current version: 3.9
+## Commodity: https://numfocus.org/
+## Anaconda: https://pydata.org/
+
+### Pyhton ###
+python --version ( for checking version of python) 
+vim one.py ( for create a file in the shell) 
+gc one.py ( for view content inside the file)
+type one.py ( for view content iside the file) 
+python one.py ( for run file or execute the file)
+
+### C Programming Language ###
+vim one.c (create file)
+type one.c ( view content of file) 
+gcc -c one.c ( compile file) 
+gcc -o one.exe one.c ( create an executable file or machine file) 
+.\one.exe ( run executable file) 
+
+
+## Source Code --> Translator(Compiler or Interpreter) --> Machine or Executable code 
+## Windows PowerShell ##
+ipython ( for intrective python) 
+juypter notebook ( for write code ) 
+
+## Juypter NoteBook ##
+ESC --> command mode
+ESC + y --> code shell 
+ESC + m --> markdown shell
+ESC + a --> To open a new code shell above current shell 
+ESC + b --> To open a new code shell bellow current shell 
+ESC + c --> for Copy 
+ESC + x --> for Cut
+ESC + v --> for Paste(below)
+ESC + V or ESC + Shift + v -->> Paste(above)
+
+## Important ##
+[name](url) -->> To add url 
+![name[(path/url) -->> To add your image 
+help(function name)
+print(s) -->> will print object(data)
+print(type(s)) -->> will print class of object 
+print(id(s)) -->> will print unique id of current object
+print(dir(s)) -->> will print all methods that can be used on a string object
+help(s.title) -->> will print documentation of title method of string class 
